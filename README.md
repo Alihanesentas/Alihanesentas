@@ -2,7 +2,7 @@
 #### DataScience,AI
 ![DataScience,AI](https://www.techzine.eu/wp-content/uploads/2023/01/GitHub-headpic.jpg)
 
-I am studying computer engineering at Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
+I am studying computer engineering at Celal Bayar University. I am interested in data science, machine learning, deep learning and artificial intelligence innovations and I work in these fields.
 
 Skills: PYTHON / JAVA
 
