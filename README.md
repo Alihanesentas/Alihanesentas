@@ -3,7 +3,7 @@
 
 I am studying computer engineering at Celal Bayar University. I am interested in machine learning, deep learning and artificial intelligence innovations and I work in these fields.
 
-Skills: PYTHON / JAVA
+
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: alihanesentas45@gmail.com 
